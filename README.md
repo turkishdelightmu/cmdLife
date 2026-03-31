@@ -230,10 +230,10 @@ You can also:
 **Find cmdLife online:**
  
 <p>
-  <a href="https://www.youtube.com/@TermLife_app"><img src="https://img.shields.io/badge/YouTube-@cmdLife__app-f0c040?style=flat-square&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.tiktok.com/@termlife.app"><img src="https://img.shields.io/badge/TikTok-@cmdlife.app-f0c040?style=flat-square&logo=tiktok&logoColor=white"/></a>
-  <a href="https://www.instagram.com/termlife.app/"><img src="https://img.shields.io/badge/Instagram-@cmdlife.app-f0c040?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/termlife_app"><img src="https://img.shields.io/badge/X-@cmdlife__app-f0c040?style=flat-square&logo=x&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@cmdLife_app"><img src="https://img.shields.io/badge/YouTube-@cmdLife__app-f0c040?style=flat-square&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@cmdlife.app"><img src="https://img.shields.io/badge/TikTok-@cmdlife.app-f0c040?style=flat-square&logo=tiktok&logoColor=white"/></a>
+  <a href="https://www.instagram.com/cmdlife.app/"><img src="https://img.shields.io/badge/Instagram-@cmdlife.app-f0c040?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://x.com/cmdlife_app"><img src="https://img.shields.io/badge/X-@cmdlife__app-f0c040?style=flat-square&logo=x&logoColor=white"/></a>
 </p>
  
 <br/>
