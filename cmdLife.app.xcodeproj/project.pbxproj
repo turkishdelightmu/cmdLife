@@ -6,6 +6,11 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		5CFE6F4A2F7BCCB9004E8436 /* Github cover.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CFE6F482F7BCCB9004E8436 /* Github cover.png */; };
+		5CFE6F4B2F7BCCB9004E8436 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 5CFE6F492F7BCCB9004E8436 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		5CF87BFD2F7BCC1400DCE065 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +32,8 @@
 		5CF87BED2F7BCC1100DCE065 /* cmdLife.app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cmdLife.app.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CF87BFC2F7BCC1400DCE065 /* cmdLife.appTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cmdLife.appTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CF87C062F7BCC1400DCE065 /* cmdLife.appUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cmdLife.appUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		5CFE6F482F7BCCB9004E8436 /* Github cover.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Github cover.png"; sourceTree = "<group>"; };
+		5CFE6F492F7BCCB9004E8436 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -78,6 +85,8 @@
 				5CF87BEF2F7BCC1100DCE065 /* cmdLife.app */,
 				5CF87BFF2F7BCC1400DCE065 /* cmdLife.appTests */,
 				5CF87C092F7BCC1400DCE065 /* cmdLife.appUITests */,
+				5CFE6F492F7BCCB9004E8436 /* README.md */,
+				5CFE6F482F7BCCB9004E8436 /* Github cover.png */,
 				5CF87BEE2F7BCC1100DCE065 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -212,6 +221,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CFE6F4A2F7BCCB9004E8436 /* Github cover.png in Resources */,
+				5CFE6F4B2F7BCCB9004E8436 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
